@@ -17,5 +17,4 @@ based on
 >
 > Flows
 
-for demo this is the application 
-[Demo Application](https://drive.google.com/file/d/10JKDaf6oZb2_lKdfhUjrP9Xs0v-nTJaa/view?usp=sharing).
+for demo check out the repository. 
